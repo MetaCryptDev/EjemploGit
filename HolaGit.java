@@ -6,6 +6,7 @@ public class HolaGit {
 		System.out.println("Hola Git");
 		System.out.println("Primer Cambio");
 		System.out.println("Segundo Cambio");
+		System.out.println("Adios Git");
 	}
 
 }
